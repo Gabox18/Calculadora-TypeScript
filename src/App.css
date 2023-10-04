@@ -1,0 +1,8 @@
+.cal_label{
+  display: block;
+  width: 80%;
+  height: 10vh;
+  margin: 0 auto;
+  background-color: #e2e2e2;
+  border-radius: 10px;
+}
