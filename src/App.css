@@ -1,5 +1,5 @@
 .cal_label{
-  display: block;
+  display: flex;
   width: 80%;
   height: 10vh;
   margin: 0 auto;
